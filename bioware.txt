@@ -1,1 +1,3 @@
-http://cdn-webqa02-swtor.aus.biowareonline.int/sites/all/files/en/coruscant/main/newPlayerGuide/chapterTwoRepublic.png
+This is the Bioware local dev URL: http://cdn-webqa02-swtor.aus.biowareonline.int/
+
+Image example: http://cdn-webqa02-swtor.aus.biowareonline.int/sites/all/files/en/coruscant/main/newPlayerGuide/chapterTwoRepublic.png
