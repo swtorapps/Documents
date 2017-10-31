@@ -1,7 +1,10 @@
 This is the Bioware local dev URL: http://cdn-webqa02-swtor.aus.biowareonline.int/
 
-Image example: http://cdn-webqa02-swtor.aus.biowareonline.int/sites/all/files/en/coruscant/main/newPlayerGuide/chapterTwoRepublic.png
 
-This is what the above image is mapped to on their CDN: http://cdn-www.swtor.com/sites/all/files/en/coruscant/main/newPlayerGuide/chapterTwoRepublic.png
+
+Image example: http://cdn-webqa02-swtor.aus.biowareonline.int/sites/all/files/en/coruscant/main/newPlayerGuide/chapterTwoRepublic.png
+        This is what the above image is mapped to on their CDN: http://cdn-www.swtor.com/sites/all/files/en/coruscant/main/newPlayerGuide/chapterTwoRepublic.png
+
+
 
 The .int domain is an internal address used for testing. 
